@@ -14,7 +14,7 @@ Feature engineering refers to:
 
 Addition, Deletion, Combination, Mutation of your data set to improve machine learning model training, leading to better performance and greater accuracy. In context of this task, feature engineering refers to the engineering of the price and client data to create new columns that will help us to predict churn more accurately. Effective feature engineering is based on sound knowledge of the business problem and the available data sources.
 
-![Netflix logo](Executive_Summary)
+
 
 
 
