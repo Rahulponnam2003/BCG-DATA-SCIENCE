@@ -1,4 +1,4 @@
-# BCG-DATA-SCIENCE
+# BCGX-DATA-SCIENCE Job simulation (FORAGE)
 ## Exploratory data analysis
 The client has sent over 2 datasets and it your responsibility to perform some exploratory data analysis.
 
