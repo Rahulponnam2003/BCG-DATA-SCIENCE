@@ -1,22 +1,50 @@
-# BCGX-DATA-SCIENCE Job simulation (FORAGE)
-## Exploratory data analysis
-The client has sent over 2 datasets and it your responsibility to perform some exploratory data analysis.
+# BCG Data Science & Advanced Analytics Virtual Experience
 
-What is exploratory data analysis?
+This repository presents my completion of the **BCG Open‑Access Data Science & Advanced Analytics Virtual Experience Program**, simulating a real-world analytics consulting engagement for a utility client (PowerCo) focused on reducing customer churn.
 
-Exploratory data analysis (EDA) is a technique used by a Data Scientist to gain a holistic understanding of the data that they are working with.
+## 🧠 Project Overview
 
-It is mainly based around using statistical techniques (such as descriptive statistics) and visualizations to gain a deeper understanding of the statistical properties that the data holds.
+### **Task 1: Business Understanding & Hypothesis Framing**
 
+* Investigated the context of customer churn at PowerCo, especially in the SME segment.
+* Hypothesized that **price sensitivity is a key driver** of churn.
+* Formulated a data science problem: build a predictive model to identify customers at risk due to price sensitivity.
+* Communicated approach via a structured memo outlining required data and analytical plan.
 
-### What is feature engineering?
-Feature engineering refers to:
+### **Task 2: Exploratory Data Analysis & Cleaning**
 
-Addition, Deletion, Combination, Mutation of your data set to improve machine learning model training, leading to better performance and greater accuracy. In context of this task, feature engineering refers to the engineering of the price and client data to create new columns that will help us to predict churn more accurately. Effective feature engineering is based on sound knowledge of the business problem and the available data sources.
+* Conducted an in-depth examination of data quality, distributions, and missingness.
+* Defined and quantified **price sensitivity metrics**, examining their correlation with churn.
+* Summarized findings and recommended additional data sources.
 
+### **Task 3: Feature Engineering & Modeling**
 
+* Developed predictive features including pricing trends, usage patterns, and tenure.
+* Trained a **Random Forest classifier** to predict churn probability.
+* Evaluated model performance via accuracy, precision, recall, and discussed trade-offs.
 
+### **Task 4: Insights & Business Recommendations**
 
+* Created an executive-style summary of insights and model implications.
+* Suggested high-impact data-driven retention strategies (e.g., targeted 20% discounts).
+* Estimated potential cost savings for the client based on modeling outcomes.
 
+## 🛠️ Technical Stack
 
+* **Environment**: Python with Jupyter Notebooks
+* **Libraries**: Pandas, NumPy, scikit-learn, Matplotlib/Seaborn
+* **Deliverables**:
 
+  * EDA notebooks and slides
+  * Feature engineering and modeling scripts
+  * Executive summary slide/report
+
+## 📌 Why This Matters
+
+* Demonstrates a complete *data science lifecycle* from hypothesis to actionable business insights.
+* Simulates a real consulting scenario with PowerCo and BCG Gamma.
+* Showcases analytical, modeling, and communication skills relevant to business-facing data science roles.
+
+---
+
+Feel free to edit or customize based on your exact deliverables or enhancements you made. Let me know if you'd like help turning this into a template with badges or formatted markdown!
