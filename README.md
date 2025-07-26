@@ -45,6 +45,3 @@ This repository presents my completion of the **BCG Open‑Access Data Science &
 * Simulates a real consulting scenario with PowerCo and BCG Gamma.
 * Showcases analytical, modeling, and communication skills relevant to business-facing data science roles.
 
----
-
-Feel free to edit or customize based on your exact deliverables or enhancements you made. Let me know if you'd like help turning this into a template with badges or formatted markdown!
